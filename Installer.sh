@@ -1,4 +1,5 @@
 # Install dependencies
+sudo pacman -S python-pip
 pip install pywebview
 pip install pyinstaller
 pip install requests

@@ -2,6 +2,7 @@
 pip install pywebview
 pip install pyinstaller
 pip install requests
+pip install screenview
 
 # Build the executable
 sudo pyinstaller --onefile --name "TuxTalk" --distpath /usr/local/bin/Tux-talk Tuxtalk.py

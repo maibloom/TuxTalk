@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tux Talk
+Comment=Tux Talk, your panel to the AI
+Exec=/usr/local/bin/Tux-talk/TuxTalk
+Icon=/usr/local/bin/Tux-talk/logo.png
+Terminal=false
+Type=Application
+Categories=Utility;

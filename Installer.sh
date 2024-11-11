@@ -12,7 +12,7 @@ cd ..
 
 # move codes and etc to /usr/bin
 
-sudo mv TuxTalk/TuxTalk /usr/bin
+sudo mv TuxTalk /usr/bin
 
 # moving the starting app to the desktop
 

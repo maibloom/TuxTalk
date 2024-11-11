@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=TuxTalk
+Exec=/usr/bin/TuxTalk/TuxTalk.sh
+logo=/use/bin/TuxTalk/logo.ico
+Categories=Utility;

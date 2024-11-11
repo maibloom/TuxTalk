@@ -3,5 +3,5 @@
 Type=Application
 Name=TuxTalk
 Exec=/usr/bin/TuxTalk/TuxTalk.sh
-logo=/use/bin/TuxTalk/logo.ico
+logo=/use/bin/TuxTalk/logo.png
 Categories=Utility;

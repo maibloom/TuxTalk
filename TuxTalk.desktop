@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=TuxTalk
+Exec=/usr/bin/TuxTalk/TuxTalk
+Icon=/usr/bin/TuxTalk/logo.ico
+Terminal=false

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TuxTalk
+Comment=Tux Talk, Your Portal to the AI, Powered by Duck Duck Go AI
+Exec=python3 /usr/bin/TuxTalk/TuxTalk.py
+Icon=/usr/bin/TuxTalk/TuxTalk.png
+Terminal=false
+Type=Application
+Categories=Utility;

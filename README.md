@@ -20,11 +20,11 @@ omnipkg put install tuxtalk
 you can git this project and run the bash script file:
 
 ```
-git clone https://www.github.com/maibloom/TuxTalk/
+git clone https://github.com/maibloom/TuxTalk.git
 
-cd TuxTalk/v.1.0.0/
+cd TuxTalk/v1.0.0
 
-chmod +x *
+chmod +x ./TuxTalkInstall.sh
 
-sudo bash install.sh
+sudo bash ./TuxTalkInstall.sh
 ```

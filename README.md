@@ -12,5 +12,5 @@ PyPipPark functions as an organized haven for Python pip dependencies, efficient
 2. Install TuxTalk:
 
 ```
-omnipkg put install TuxTalk
+omnipkg put install tuxtalk
 ```

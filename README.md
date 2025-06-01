@@ -20,6 +20,8 @@ omnipkg put install tuxtalk
 you can git this project and run the bash script file:
 
 ```
+sudo pacman -S python-pyqt5
+
 git clone https://github.com/maibloom/TuxTalk.git
 
 cd TuxTalk/v1.0.0
